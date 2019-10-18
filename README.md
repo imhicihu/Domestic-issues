@@ -12,7 +12,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Technicalities, Technical issues, proxies, scalabilities, the usual prospects...
 * Version 1.01
 
 ### How do I get set up? ###
