@@ -8,6 +8,7 @@
 
 * 
 * This repo is a living document that will grow and adapt over time
+![workflow.png](https://bitbucket.org/repo/ayrEdXL/images/525503978-workflow.png)
 
 ### What is this repository for? ###
 
