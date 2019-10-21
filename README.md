@@ -24,6 +24,7 @@
     - There is no current dependencies to deal, at least, in a general (digital) environment
 * Database configuration
     - Just check it out our `snippets` section (up to now, for security reasons, _not_ visible to everybody)
+    - ![snippets.gif](https://bitbucket.org/repo/ayrEdXL/images/1270339170-snippets.gif)
 * How to run tests
     - Every solution needs a particular test to manage, deal and pass it on
 * Deployment instructions
