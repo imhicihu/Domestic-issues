@@ -5,7 +5,7 @@
 # RATIONALE #
 
 * General issues found in the digital realm. By the way, a repo in _perpetual progress_
-* This repo is a living document that will grow and adapt over time
+* This repo is a living document that will _grow_ and _adapt_ over and over again and...
 ![workflow.png](https://bitbucket.org/repo/ayrEdXL/images/525503978-workflow.png)
 
 ### What is this repository for? ###
@@ -17,7 +17,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - There is no set up to do, even previous
+    - There is no rule of thumb, so every issue demands knowledge and _mostly_ insightful thought
 * Configuration
     - Just check it out the [`issues.md`](https://bitbucket.org/imhicihu/domestic-issues/src/master/issues.md)
 * Dependencies
@@ -27,8 +27,6 @@
     - ![snippets.gif](https://bitbucket.org/repo/ayrEdXL/images/1270339170-snippets.gif)
 * How to run tests
     - Every solution needs a particular test to manage, deal and pass it on
-* Deployment instructions
-    - 
 
 ### Source ###
 
@@ -49,7 +47,7 @@
 * Code review
     - Just PR your proposal/fixes/point of view _against_ this repo
 * Other guidelines
-    - Up to now, there is no other guidelines to check
+    - Up to now, there is no other guidelines to verify/pass it on
 
 ### Related repositories ###
 
@@ -64,7 +62,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/resources/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
