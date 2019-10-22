@@ -19,7 +19,7 @@
 * Summary of set up
     - There is no set up to do, even previous
 * Configuration
-    - Just check it out the issues 
+    - Just check it out the [`issues.md`](https://bitbucket.org/imhicihu/domestic-issues/src/master/issues.md)
 * Dependencies
     - There is no current dependencies to deal, at least, in a general (digital) environment
 * Database configuration
