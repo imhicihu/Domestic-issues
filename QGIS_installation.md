@@ -7,6 +7,7 @@
 
 ## Procedures
 * Download QGIS according your operating system. Verify that the chosen version meets the system requeriments
+* ![installation.png](https://bitbucket.org/repo/ayrEdXL/images/2227180961-installation.png)
 * Install the `GDAL` complete framework
 * Install `NumPy`
 * Install `MatplotLib`
