@@ -25,7 +25,7 @@
 * Clic `OK`
 
 ## How to install plugins from QGIS
-* In QGIS, from the upper menu, go to `Plugins`. A dropwdown menu will display. Select the `Manage and install Plugins...` option
+* In QGIS, from the upper menu, go to `Plugins`. A dropwdown menu will be displayed. Select the `Manage and install Plugins...` option
 * Automatically it will display this menu
 * ![plugin.png](https://bitbucket.org/repo/ayrEdXL/images/261314794-plugins.png)
 * Select the plugin that wish to install. Then click on `Install plugin` option on the lower right of the menu. Once installed, click on `Close`
