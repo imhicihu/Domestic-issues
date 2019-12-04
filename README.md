@@ -63,6 +63,10 @@
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/resources/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/domestic-issues/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
