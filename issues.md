@@ -8,6 +8,6 @@
 | -------- | -------- | -------- | -------- |
 |       iOS 13.3.1           |  App Store        |  Can't install any app     |
 |-------- |-------- |-------- | -------- |
-|   MacOSX 10.13.6                 |  [Discord](https://gitpod.io/)      | Can not stablish a connection between parties     | ![discord](https://i.ibb.co/DDhzTKp/2020-03-12-17-08-00.gif) 
+|   MacOSX 10.13.6                 |  [Discord](https://discordapp.com/app)      | Can not stablish a connection between parties     | ![discord](https://i.ibb.co/DDhzTKp/2020-03-12-17-08-00.gif) 
 | -------- | -------- | -------- | --------|
 
