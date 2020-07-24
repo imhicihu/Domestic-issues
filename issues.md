@@ -8,6 +8,7 @@
 |  |  |  |  |
 |       iOS 13.3.1           |  App Store        |  Can't install any app     |
 | | | |  |
-|   MacOSX 10.13.6                 |  [Discord](https://discordapp.com/app)     | Can not stablish a connection between parties |  
+|   MacOSX 10.13.6                 |  [Discord](https://discordapp.com/app)     | Can not stablish a connection between parties / Proxy blocks connection? |
+|   MacOSX 10.11.6                 |  [Skype v. 8.34.078](https://skype.com/)     | Proxy settings can't be setted |
 |  |  |  | |
 
