@@ -10,5 +10,6 @@
 | | | |  |
 |   MacOSX 10.13.6                 |  [Discord](https://discordapp.com/app)     | Can not stablish a connection between parties / Proxy blocks connection? |
 |   MacOSX 10.11.6                 |  [Skype v. 8.34.078](https://skype.com/)     | Proxy settings can't be setted |
+|   Windows 10 64bits                 |  [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF?hl=en-us&gl=US)     | ¿certificates? |
 |  |  |  | |
 
