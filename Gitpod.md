@@ -1,5 +1,7 @@
 * Unable to deploy code from Github
-- ![gitpod.jpeg](https://bitbucket.org/repo/ayrEdXL/images/108989049-gitpod.jpeg)
+<BR></BR>
+![gitpod.jpeg](images/108989049-gitpod.jpeg)
+<BR></BR>
 * Reset the cookies
 * Delete the cookies
 * Disable ad-blockers
