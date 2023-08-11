@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - Macbook 13"
@@ -42,6 +42,6 @@
      - [issuehub.io](http://issuehub.io/): Github issues searcher
 
      
-## Legal ##
+### Legal 
 
 * All trademarks are the property of their respective owners.
