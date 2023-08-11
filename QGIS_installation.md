@@ -1,11 +1,11 @@
-## QGIS version
+### QGIS version
 * Tested on the mac version (64 bits) of QGIS 2.18.20 in plain english version
 ![version.png](images/2685026011-qgis.png)
 
-## QGIS Plugin repository
+### QGIS Plugin repository
 * Check [here](https://plugins.qgis.org/plugins/plugins.xml) the QGIS Python Plugins available (depends according your installed version of QGIS)
 
-## Procedures
+### Procedures
 * Download QGIS according your operating system. Verify that the chosen version meets the system requeriments
 ![installation.png](images/2227180961-installation.png)
 * Install the `GDAL` complete framework
@@ -13,7 +13,7 @@
 * Install `MatplotLib`
 * Install `QGIS`
 
-## How to deal with (our) proxy server
+### How to deal with (our) proxy server
 * Launch `QGIS`
 * Click on the upper left menu: `QGIS` > `Preferences` > `Network`
 * Tick on `Use proxy for web access`. On proxy type, choose from the dropdown menu the option: `HttpProxy`. 
@@ -22,9 +22,9 @@
 * On `Port`: add `3128`
 * On `User`: add the usual internet user provided
 * On `Password`: add the usual password provided
-* Clic `OK`
+* Click `OK`
 
-## How to install plugins from QGIS
+### How to install plugins from QGIS
 * In QGIS, from the upper menu, go to `Plugins`. A dropdown menu will be displayed. Select the `Manage and install Plugins...` option
 * Automatically it will display this menu
 ![plugin.png](images/261314794-plugins.png)
