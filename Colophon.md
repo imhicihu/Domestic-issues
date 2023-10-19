@@ -36,10 +36,7 @@
          - [Gitpod](https://gitpod.io/): online IDE for Github
      - Digital transfer
 	     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
-         - [WeTransfer](https://wetransfer.com/): limited digital moving/transfer of digital assets
-     
-* Documentation
-     - [issuehub.io](http://issuehub.io/): Github issues searcher
+       - [WeTransfer](https://wetransfer.com/): limited digital moving/transfer of digital assets
 
      
 ### Legal 
